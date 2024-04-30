@@ -1,0 +1,3 @@
+# Ignore models since these are too large
+/Models/
+/.ipynb_checkpoints/
