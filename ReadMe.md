@@ -18,9 +18,9 @@ CAE (1000 Latent Dimension): 95.23%
 
 GAN: 98.05%
 
+### GAN RESULT
+<img src="generation.gif" width="750" align="center">
+
 ## Dataset Used
 
 KOKLU, M., CINAR, I. and TASPINAR, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285.
-
-### GAN RESULT
-<img src="generation.gif" width="750" align="center">
