@@ -11,8 +11,11 @@ CAE and GAN used transfer learning for extracting features. CAE used the encodin
 
 ## Results with Test Dataset
 PCA: 20%
+
 CAE (200 Latent Dimension): 94.83%
+
 CAE (1000 Latent Dimension): 95.23%
+
 GAN: 98.05%
 
 Dataset Used: KOKLU, M., CINAR, I. and TASPINAR, Y. S. (2021). Classification of rice varieties with deep learning methods. Computers and Electronics in Agriculture, 187, 106285.
