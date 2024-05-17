@@ -1,6 +1,6 @@
 # Feature Extraction Using Unsupervised Learning Methods for Rice Grain Classification
 
-This research explores the use of unsupervised learning methods in extracting features from an image.
+This research explores the use of unsupervised learning methods in extracting features from an image. This is required for completion of MSc in Data Analytics in CCT College Dublin.
 
 ### Unsupervised Learning Methods:
 - PCA with CNN
