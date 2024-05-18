@@ -1,6 +1,6 @@
 # Feature Extraction Using Unsupervised Learning Methods for Rice Grain Classification
 
-This research explores the use of unsupervised learning methods in extracting features from an image.
+This research explores the use of unsupervised learning methods in extracting features from an image. This is required for completion of MSc in Data Analytics in CCT College Dublin.
 
 ### Unsupervised Learning Methods:
 - PCA with CNN
@@ -10,6 +10,8 @@ This research explores the use of unsupervised learning methods in extracting fe
 CAE and GAN used transfer learning for extracting features. CAE used the encoding layers for extracting the features from images while GAN used the discriminator layers.
 
 ## Results with Test Dataset
+The following are the accuracy results of the models used in this study:
+
 PCA: 20%
 
 CAE (200 Latent Dimension): 94.83%
